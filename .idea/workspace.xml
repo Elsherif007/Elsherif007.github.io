@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7fc915a-17fc-4825-a225-c81f81c695de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/melsherif/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/melsherif/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/melsherif/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/melsherif/jekyll/update/2025/01/27/welcome-to-jekyll.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/_posts/2025-01-27-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/melsherif/index.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738104337412</updated>
       <workItem from="1738104338945" duration="1532000" />
-      <workItem from="1738184057662" duration="599000" />
+      <workItem from="1738184057662" duration="900000" />
     </task>
     <servers />
   </component>
